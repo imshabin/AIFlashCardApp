@@ -1,1 +1,1 @@
-# AIFlashCardApp
+# TradingBot
